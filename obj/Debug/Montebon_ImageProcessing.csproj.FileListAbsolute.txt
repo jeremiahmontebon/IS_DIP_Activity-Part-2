@@ -1,0 +1,17 @@
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\Montebon_ImageProcessing.exe.config
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\Montebon_ImageProcessing.exe
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\Montebon_ImageProcessing.pdb
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.Properties.Resources.resources
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.exe
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.pdb
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.Form1.resources
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.dll
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.Video.dll
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.xml
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.Video.xml
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\jerem\source\repos\Montebon_ImageProcessing\obj\Debug\Montebon_ImageProcessing.csproj.CopyComplete
