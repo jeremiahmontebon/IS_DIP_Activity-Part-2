@@ -510,6 +510,8 @@ namespace Montebon_ImageProcessing
                 // Capture the current frame and set it as imageA
                 Bitmap capturedFrame = (Bitmap)pictureBox1.Image.Clone();
                 imageA = new Bitmap(capturedFrame, pictureBox1.Width, pictureBox1.Height);
+                loadPicture = imageA;
+                modeToolStripMenuItem.Enabled = true;
             }
         }
 
@@ -535,6 +537,20 @@ namespace Montebon_ImageProcessing
                 isVideo = false;
                 button4.Text = "Start Camera";
             }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            // reset all
+            pictureBox1.Image = null;
+            pictureBox2.Image = null;
+            pictureBox3.Image = null;
+            imageA = null;
+            imageB = null;
+            modeToolStripMenuItem.Enabled = false;
+            isVideo = false;
+            button4.Text = "Start Camera";
+
         }
 
         private int[] ApplySepiaTone(int r, int g, int b)
