@@ -13,4 +13,4 @@ Montebon Image Processing is a C# application for image manipulation and webcam 
 1. Clone the repository.
 
    ```bash
-   git clone [https://github.com/jeremiahmontebon/IS_DIP_Activity-Part-2.git]
+   git clone https://github.com/jeremiahmontebon/IS_DIP_Activity-Part-2.git
